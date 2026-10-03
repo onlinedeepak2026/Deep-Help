@@ -1,0 +1,6 @@
+{
+  "name": "Deep Help",
+  "description": "Deep Help - All-in-One Civil Engineering Hub by Er. Deepak Kumar: Study Section with Subjects, PDF Notes, PYQs, MCQ Quizzes, Formula Book & IS Codes; Engineering Calculators (Concrete, Brickwork, Steel Weight, Cement Sand Aggregate, Unit Converter); Design Tools (Beam, Column, Slab, Footing, Rate Analysis); Estimation & Costing (Detailed, Abstract, BOQ, Material); Surveying Tools (Levelling HI & Rise/Fall, Traverse, Chain, GPS); Career Section (SSC JE, RRB JE, BTSC JE, GATE); AI Features (AI Doubt Solver, Drawing/Plan Explanation, Viva Questions, Interview Prep); Dark Mode, Offline Notes, Progress Tracking, Bilingual Hindi+English, and PDF Export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
